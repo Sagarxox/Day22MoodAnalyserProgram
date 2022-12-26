@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC-5_Parameter Constructor", "UC-5_Parameter Constructor.csproj", "{B9C6A571-A3D5-4E4E-8078-F2E0FF40E1C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TC-5.2", "..\TC-5.2\TC-5.2.csproj", "{79ED3756-86F8-44C8-9ECA-F03F6B261A11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9C6A571-A3D5-4E4E-8078-F2E0FF40E1C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C6A571-A3D5-4E4E-8078-F2E0FF40E1C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C6A571-A3D5-4E4E-8078-F2E0FF40E1C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C6A571-A3D5-4E4E-8078-F2E0FF40E1C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79ED3756-86F8-44C8-9ECA-F03F6B261A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79ED3756-86F8-44C8-9ECA-F03F6B261A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79ED3756-86F8-44C8-9ECA-F03F6B261A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79ED3756-86F8-44C8-9ECA-F03F6B261A11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10EFB266-F4E4-4645-97F7-7146D44A7A10}
+	EndGlobalSection
+EndGlobal
